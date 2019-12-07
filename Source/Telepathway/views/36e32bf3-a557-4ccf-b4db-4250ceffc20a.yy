@@ -1,0 +1,30 @@
+{
+    "id": "36e32bf3-a557-4ccf-b4db-4250ceffc20a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "36e32bf3-a557-4ccf-b4db-4250ceffc20a",
+    "children": [
+        "d6d7cf53-7ed2-4176-92d4-49a3798df78e",
+        "d9f2613f-b6db-4e81-b167-b9c6b4116882",
+        "2e551e98-a8f5-4f8b-b251-abc8e759b189",
+        "2bcc392c-ebd2-458d-9ac8-a0bc30ec046a",
+        "8c08138e-d8ed-4115-bed8-9217237f9a1a",
+        "d89739eb-f54c-4b67-a202-d5b61c552dbc",
+        "26d69b85-3153-4f89-96e8-ab445fe8e435",
+        "573a0522-7dbc-4bef-8fef-1f1d819fba9b",
+        "8f3272f3-86a9-4a0d-8643-f8a9f55ef6b1",
+        "5483cc14-e241-49b4-aec8-eb3c1b8d4271",
+        "cc011a57-167c-483c-9e1b-0f505f881e18",
+        "bc5bf77b-b765-404a-a8bd-4e405a0d2d81",
+        "55184021-5f6f-430f-88a1-d1825108850c",
+        "3c87c16e-6301-4a6e-bdc3-efbcbf4972ad",
+        "89faba14-dd40-4c8e-8725-e5d891901713",
+        "818c3ddd-a5c9-4d70-a1bd-0a169a780488",
+        "3eaf727c-50b0-4186-8b3d-979a17b1e562",
+        "2dd66979-fe68-4545-a6e3-20c51fb11bf0"
+    ],
+    "filterType": "GMScript",
+    "folderName": "GameRecord",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

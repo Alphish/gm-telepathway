@@ -1,0 +1,1 @@
+/// @function Dialogue_advance()

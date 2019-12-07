@@ -1,0 +1,6 @@
+I hope you enjoyed this entry. There were some twists and turns and I had to cut corners here and there, but overall I'm pleased with how it turned out.
+
+If you are stuck on some level and *really* want to see what was next, you can hold P+S+I combination to immediately get maximum amount of PSI. With this, going through the game should be a breeze.
+
+Also, I made a very crude level editor for development purposes (in this kind of game, an editor is a must to get any reasonable number of levels done).
+You can check if out by pressing E in the main menu. If you come up with a fun level, feel free to share. ^^
