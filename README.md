@@ -23,4 +23,4 @@ Likewise, if my code helped you create some cool project, I would be happy to kn
 More specifically, you can't use the above beyond personal use, unless I give you a specific permission to do so.
 For example, using the sprites included in the Telepathway project to compile it is an acceptable personal use. Including these sprites in your own project is not allowed (even if you credit me).
 
-If I didn't specifically mention a certain type of asset or other kind of intellectual property, **you should assume its use is disallowed**, just like with Sprites for instance.
+If I didn't specifically mention a certain type of asset or other kind of intellectual property, **you should assume its use is disallowed**, just like with Sprites, levels etc.
